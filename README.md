@@ -1,14 +1,14 @@
 # Cohort Analysis
 customer retention, churn analysis
 
-
+---
 
 
  **Customer Rentention Analysis**
 <img width="527" height="334" alt="Rentention of customer" src="https://github.com/user-attachments/assets/ab891cbb-dd18-4d4f-833d-26a1a5c9d122" />
 
 
-
+---
 
 
 **Churn Analysis**
